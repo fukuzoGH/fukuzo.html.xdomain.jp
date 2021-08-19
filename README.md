@@ -1,5 +1,5 @@
 #
-# fukuzo.mydns.jp
+# fukuzo.html.xdomain.jp
 #
 # ■Readme
 #  このファイルは、以下のwebページのソースです。
