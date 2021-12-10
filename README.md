@@ -8,5 +8,6 @@
 #
 # ■GitHub
 # https://github.com/fukuzoGH
+# https://github.com/fukuzoGH/fukuzo.mydns.jp
 #
 #
